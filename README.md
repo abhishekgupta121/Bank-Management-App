@@ -27,6 +27,6 @@ Run the project
 
 streamlit run app.py
 
-## 🚀 Live Demo
+## 🌐 Live App
 
-🔗 https://bgi-bank-system.streamlit.app
+🔗 https://digital-bank-bgi.streamlit.app/
