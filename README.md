@@ -26,3 +26,7 @@ pip install streamlit
 Run the project
 
 streamlit run app.py
+
+## 🚀 Live Demo
+
+🔗 https://bgi-bank-system.streamlit.app
